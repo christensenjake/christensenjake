@@ -81,9 +81,7 @@ check out my site to see what i’ve been building:
 
 ---
 
-## github snake  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christensenjake/christensenjake/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/christensenjake/christensenjake/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/christensenjake/christensenjake/output/github-contribution-grid-snake.svg" />
-</picture>
+## contributions at a glance  
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christensenjake&theme=github_dark" alt="GitHub contribution summary" />
+</div>
